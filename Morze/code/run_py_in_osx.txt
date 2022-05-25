@@ -1,0 +1,9 @@
+I have changed the mode by
+
+sudo chmod +x file-name.py
+
+Then Added the following line on top of the file-name.py
+
+#!/usr/bin/env python
+
+Then run the file by running ./file-name.py command and it works fine.
